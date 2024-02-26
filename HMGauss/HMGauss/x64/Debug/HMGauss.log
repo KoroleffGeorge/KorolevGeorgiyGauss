@@ -1,0 +1,3 @@
+﻿  HMGauss.cpp
+E:\C++\HMGauss\HMGauss\HMGauss.cpp(113,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  HMGauss.vcxproj -> E:\C++\HMGauss\x64\Debug\HMGauss.exe
